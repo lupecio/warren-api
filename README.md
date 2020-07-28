@@ -37,12 +37,12 @@ yarn typeorm migration:run
 ## Usage
 
 ```sh
-yarn start
+yarn dev:server
 ```
 or
 
 ```sh
-npm start
+npm run dev:server
 ```
 
 ## Tests
